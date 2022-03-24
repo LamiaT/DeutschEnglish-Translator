@@ -1,4 +1,3 @@
 # DeutschEnglish-Translator
-A neural machine translation model to help with my preparation for Deutsch language exam.
 
-keywords: Sequence-to-Sequence model, Gated Recurrent Unit, Recurrent Neural Network architecture, Attention
+A neural machine translation model that translates Deutsch phrases to English phrases.
